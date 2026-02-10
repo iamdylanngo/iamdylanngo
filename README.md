@@ -1,8 +1,8 @@
 ### Hi there, I'm Dylan Ngo
 
 # 💫About Me :
-- 🔭 I’m currently working on PHP, Java, Python, Magento 2, Docker
-- 🌱 I’m currently learning AWS, K8S, Software Architecture
+- 🔭 I’m currently working on PHP, Magento 2, Cloud
+- 🌱 I’m currently learning Software Architecture and Salesforce
 - 💬 You can ask me about technologies
 - ⚡ Fun fact: Open changes, Open challenges
  
