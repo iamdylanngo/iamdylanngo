@@ -1,7 +1,7 @@
 ### Hi there, I'm Dylan Ngo
 
 # 💫About Me :
-- 🔭 I’m currently working on PHP, Magento 2, Cloud
+- 🔭 I’m currently working on Adobe Commerce Cloud and Salesforce
 - 🌱 I’m currently learning Software Architecture and Salesforce
 - 💬 You can ask me about technologies
 - ⚡ Fun fact: Open changes, Open challenges
