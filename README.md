@@ -1,10 +1,9 @@
 ### Hi there, I'm Dylan Ngo
 
 # 💫About Me :
-- 🔭 I’m currently working on Adobe Commerce Cloud and Salesforce
+- 🔭 I’m currently working on Salesforce Commerce Cloud, SFMC, OMS
 - 🌱 I’m currently learning Software Architecture and Salesforce
-- 💬 You can ask me about technologies
-- ⚡ Fun fact: Open changes, Open challenges
+- 💬 Vibe coding of slide projects
  
 
 ## 🌐Socials
