@@ -36,7 +36,7 @@
 
 - 🛒 Manage e-commerce platform operations across SFCC, SFMC and OMS
 - 🤝 Coordinate implementation partners and vendors on integrations, CRs and releases
-- 👥 Lead a distributed development team across Singapore and Indonesia
+- 👥 Lead a distributed development team across
 - 🔐 Oversee system integrations, security, analytics and change management
 
 # 📊 GitHub Stats
